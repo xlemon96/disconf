@@ -1,0 +1,16 @@
+mysql:
+  username: "root"
+  password: "jiajianyun"
+  ip: "127.0.0.1"
+  port: "3306"
+  database: "myconf"
+  maxidleconns: 10
+  maxopenconns: 10
+
+server:
+  ip: "127.0.0.1"
+  port: "6789"
+  http_port: "6790"
+
+log:
+  logpath: "/Users/jiajianyun/go/src/myconf/log.txt"

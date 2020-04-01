@@ -1,0 +1,121 @@
+[gogogo]2020/04/01 15:09:21 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:11:04 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:27:14 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:27:14 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:54381]
+[gogogo]2020/04/01 15:28:41 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:28:41 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:54606] [registerinfo:&{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:31:06 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:31:06 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:54966] [registerinfo:{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:31:06 log.go:27: [info] [start push latest config] [ip:127.0.0.1:54966]
+[gogogo]2020/04/01 15:38:12 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:38:12 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:56058] [registerinfo:{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:38:12 log.go:27: [info] [start push latest config] [ip:127.0.0.1:56058]
+[gogogo]2020/04/01 15:38:51 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:38:51 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:56159] [registerinfo:{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:38:51 log.go:27: [info] [start push latest config] [ip:127.0.0.1:56159]
+[gogogo]2020/04/01 15:41:58 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:41:58 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:56626] [registerinfo:{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:41:58 log.go:27: [info] [start push latest config] [ip:127.0.0.1:56626]
+[gogogo]2020/04/01 15:44:05 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:44:05 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:56955] [registerinfo:{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:44:05 log.go:27: [info] [start push latest config] [ip:127.0.0.1:56955]
+[gogogo]2020/04/01 15:44:44 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:44:44 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:57064] [registerinfo:{Namespace:[test_app test_cluster test_namespace]}]
+[gogogo]2020/04/01 15:44:44 log.go:27: [info] [start push latest config] [ip:127.0.0.1:57064]
+[gogogo]2020/04/01 15:46:01 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 15:46:01 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:57271] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 15:46:01 log.go:27: [info] [start push latest config] [ip:127.0.0.1:57271]
+[gogogo]2020/04/01 16:04:34 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:04:34 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:60097] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:04:34 log.go:27: [info] [start push latest config] [ip:127.0.0.1:60097]
+[gogogo]2020/04/01 16:09:28 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:09:28 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:60865] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:09:28 log.go:27: [info] [start push latest config] [ip:127.0.0.1:60865]
+[gogogo]2020/04/01 16:16:26 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:16:26 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:61967] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:16:26 log.go:27: [info] [start push latest config] [ip:127.0.0.1:61967]
+[gogogo]2020/04/01 16:17:09 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:17:15 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:62087] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:17:34 log.go:27: [info] [start push latest config] [ip:127.0.0.1:62087]
+[gogogo]2020/04/01 16:17:59 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:17:59 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:62212] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:17:59 log.go:27: [info] [start push latest config] [ip:127.0.0.1:62212]
+[gogogo]2020/04/01 16:21:13 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:21:19 log.go:27: [info] [start notify client] [namespace:test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:22:06 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:22:19 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:25:41 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:25:45 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:25:45 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:26:21 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:26:25 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:26:25 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:27:05 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:27:10 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:27:10 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:63644] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:27:10 log.go:27: [info] [start push latest config] [ip:127.0.0.1:63644]
+[gogogo]2020/04/01 16:27:15 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:27:17 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:27:22 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:63674] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:27:41 log.go:27: [info] [start push latest config] [ip:127.0.0.1:63674]
+[gogogo]2020/04/01 16:27:51 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:28:04 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:28:06 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:28:06 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:63807] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:28:06 log.go:27: [info] [start push latest config] [ip:127.0.0.1:63807]
+[gogogo]2020/04/01 16:28:13 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:28:13 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:28:30 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:28:34 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:28:34 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:63888] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:28:34 log.go:27: [info] [start push latest config] [ip:127.0.0.1:63888]
+[gogogo]2020/04/01 16:28:39 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:28:39 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:28:58 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:29:01 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:29:01 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:63968] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:29:01 log.go:27: [info] [start push latest config] [ip:127.0.0.1:63968]
+[gogogo]2020/04/01 16:29:04 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:29:04 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:29:53 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:29:55 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:29:55 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64110] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:29:55 log.go:27: [info] [start push latest config] [ip:127.0.0.1:64110]
+[gogogo]2020/04/01 16:30:00 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:30:00 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:30:14 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:30:17 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:30:17 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64175] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:30:17 log.go:27: [info] [start push latest config] [ip:127.0.0.1:64175]
+[gogogo]2020/04/01 16:30:34 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:30:34 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:30:57 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:30:59 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:30:59 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64292] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:30:59 log.go:27: [info] [start push latest config] [ip:127.0.0.1:64292]
+[gogogo]2020/04/01 16:31:08 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:31:08 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:31:19 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:31:22 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:31:22 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64364] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:31:22 log.go:27: [info] [start push latest config] [ip:127.0.0.1:64364]
+[gogogo]2020/04/01 16:31:27 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:31:27 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:32:54 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:32:57 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:33:01 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64609] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:33:46 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:33:51 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:33:55 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:33:58 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64764] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:34:04 log.go:27: [info] [start push latest config] [ip:127.0.0.1:64764]
+[gogogo]2020/04/01 16:34:42 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:34:45 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:34:53 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:64900] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:35:48 log.go:27: [info] [notify loop start...]
+[gogogo]2020/04/01 16:35:50 log.go:27: [info] receive new connect
+[gogogo]2020/04/01 16:35:50 log.go:27: [info] [receive new register agent] [ip:127.0.0.1:65069] [registerinfo:{Namespace:[test_app/test_cluster/test_namespace]}]
+[gogogo]2020/04/01 16:35:50 log.go:27: [info] [start push latest config] [ip:127.0.0.1:65069]
+[gogogo]2020/04/01 16:35:57 log.go:27: [info] [start notify client] [namespace:test_app/test_cluster/test_namespace] [format:ini] [value:{test:data_v2}]
+[gogogo]2020/04/01 16:35:57 log.go:27: [info] [handle notify event] [msg:{Format:ini Namespace:test_app/test_cluster/test_namespace Value:{test:data_v2}}]
+[gogogo]2020/04/01 16:44:26 log.go:27: [info] [notify loop start...]
